@@ -7,5 +7,5 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-27-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-Java/C/SQL-orange.svg">
+	<img src="https://img.shields.io/badge/Language-Java/JavaScript/C/SQL-orange.svg">
 </p>
